@@ -71,7 +71,7 @@ Mobile-Phone-Pricing/
 ### Clone Repository
 
 ```bash
-git clone <https://github.com/malshiprabodha/Mobile-Price-Range-Prediction-.git>
+git clone https://github.com/malshiprabodha/Mobile-Price-Range-Prediction-.git
 cd Mobile-Price-Range-Prediction
 ```
 

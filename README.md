@@ -1,6 +1,6 @@
-# 📱 Mobile Phone Price Prediction
+#  Mobile Phone Price Prediction
 
-<img src="Image.png" width="500">
+<img src="Image.png" width="800">
 
 This project uses Machine Learning to predict the price range of a mobile phone based on its specifications and features.
 
@@ -21,20 +21,20 @@ The project includes:
 - Streamlit Web Application
 - Deployment Ready Structure
 
----
+## 📂 Project Structure
 
-## 🛠 Technologies Used
+```text
+Mobile-Phone-Pricing/
+│
+├── app.py
+├── mobile_price_model.pkl
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
+│── Mobile_Price_Prediction.ipynb
+```
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Joblib
-- Streamlit
-
----
 
 ## 📈 Machine Learning Workflow
 
@@ -66,9 +66,6 @@ The project includes:
 ### 7. Deployment
 - Streamlit Web Application
 
----
-
-
 ## 🚀 Running the Application
 
 ### Clone Repository
@@ -92,23 +89,11 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 ```text
-
+https://malshiprabodha-mobile-price-range-prediction--app-nlvpgm.streamlit.app/
 ```
----
 
-## 📂 Project Structure
 
-```text
-Mobile-Phone-Pricing/
-│
-├── app.py
-├── mobile_price_model.pkl
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── .gitignore
-│── Mobile_Price_Prediction.ipynb
-```
+
 
 
 

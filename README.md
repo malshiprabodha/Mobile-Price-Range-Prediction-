@@ -71,8 +71,8 @@ Mobile-Phone-Pricing/
 ### Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd Mobile-Phone-Pricing
+git clone <https://github.com/malshiprabodha/Mobile-Price-Range-Prediction-.git>
+cd Mobile-Price-Range-Prediction
 ```
 
 ### Install Dependencies

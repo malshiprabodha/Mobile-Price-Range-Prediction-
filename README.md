@@ -30,9 +30,9 @@ Mobile-Phone-Pricing/
 ├── mobile_price_model.pkl
 ├── requirements.txt
 ├── README.md
-├── LICENSE
+├── dataset.csv
 ├── .gitignore
-│── Mobile_Price_Prediction.ipynb
+│── Mobilepriceprediction.ipynb
 ```
 
 
